@@ -1,0 +1,40 @@
+@font-face {
+    font-display: swap;
+    font-style: normal;
+    src: url("/public/fonts/HanaleiFillRegular.ttf");
+    font-family: "Hanalei Fill";
+    font-weight: 400;
+  }
+  
+  @font-face {
+    font-display: swap;
+    font-style: normal;
+    src: url("/public/fonts/CabinRegular.ttf");
+    font-family: "Cabin";
+    font-weight: 400;
+  }
+  
+  @font-face {
+    font-display: swap;
+    font-style: normal;
+    src: url("/public/fonts/AlatsiRegular.ttf");
+    font-family: "Alatsi";
+    font-weight: 400;
+  }
+  
+  @font-face {
+    font-display: swap;
+    font-style: normal;
+    src: url("/public/fonts/InterRegular.ttf");
+    font-family: "Inter";
+    font-weight: 400;
+  }
+  
+  @font-face {
+    font-display: swap;
+    font-style: normal;
+    src: url("/public/fonts/AbelRegular.ttf");
+    font-family: "Abel";
+    font-weight: 400;
+  }
+  

@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.custom-menu {
+    background-color: #333; /* Dark grey background for the menu */
+  }
+  
+  .custom-menu .ant-menu-item {
+    color: #fff; /* White text for menu items */
+  }
+  
+  .custom-menu .ant-menu-item:hover {
+    background-color: #555; /* Slightly lighter grey for hover */
+  }
+  
+  .custom-menu .ant-menu-item-selected {
+    background-color: #777; /* Gray background for selected item */
+    color: #fff; /* White text for selected item */
+  }
+  
